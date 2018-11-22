@@ -1,0 +1,11 @@
+header.masterhead {
+    text-align: center;
+    color: white;
+    background-image: url('img/header_main.JPG');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center top;
+    width: 100vw;
+    height: 100vh;
+    background-size: 100%;
+}
