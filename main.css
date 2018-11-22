@@ -8,4 +8,17 @@ header.masterhead {
     width: 100vw;
     height: 100vh;
     background-size: 100%;
+
+    
 }
+
+header.masterhead:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(92deg, #0f4fff 0%, #0f4fff 52%, #3D3F80 100%);
+    opacity: 0.6;
+  }
